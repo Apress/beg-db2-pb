@@ -2,7 +2,7 @@
 
 This repository accompanies [*Beginning DB2*](http://www.apress.com/9781430243236) by Grant Allen (Apress, 2012).
 
-![Cover image](9781430243236.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
